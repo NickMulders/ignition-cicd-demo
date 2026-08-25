@@ -38,7 +38,7 @@
             "margin": "16px 24px 8px 24px",
             "padding": "16px"
           },
-          "text": "Machine: Demo"
+          "text": "Machine: Oefening"
         },
         "type": "ia.display.label"
       },
@@ -56,7 +56,7 @@
             "margin": "8px 24px 24px 24px",
             "padding": "16px"
           },
-          "text": "Status: Gereed"
+          "text": "Status: Productie"
         },
         "type": "ia.display.label"
       }

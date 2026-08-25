@@ -3,7 +3,9 @@ name: CI
 # The training begins with CI deliberately inactive. In DEMO step 5, replace
 # this block with the documented `pull_request` trigger and commit it to dev.
 on:
-  workflow_dispatch:
+  pull_request:
+    branches: [main]
+
 
 permissions:
   contents: read

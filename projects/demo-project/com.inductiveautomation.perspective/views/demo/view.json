@@ -26,7 +26,7 @@
       },
       {
         "meta": {
-          "name": "machine"
+          "name": "LabelMachine"
         },
         "props": {
           "style": {
